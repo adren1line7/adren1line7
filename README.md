@@ -1,7 +1,11 @@
-<p align="left">
-      <img width="250" height="250" src="https://i.pinimg.com/736x/6e/7b/91/6e7b914a96bc8637956c66adb06bc09c.jpg">
+<p align="center">
+      <img width="ШИРИНА" height="ВЫСОТА" src="https://psv4.userapi.com/s/v1/d2/WySAqU4CHTVGCIHvJjGET_bTGtIhxxqb5fX8BKEs6NfI8fLzGF7qgFse0scjT-IPLCB2Q-UN2YqY0wYCanrvVRPEkvoeu7OymD3n4GhTaGvmhpU-J9TcoRkyl0UTR1ygv-zsBa47_74h/Bez_nazvania25_20250422124729.png">
 </p>
 
+
+<p align="left">
+      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/KiJW7f3Pn9eNXQ_rwGJ9IATWGBH80SB1pNZkq0piusHSN62oYEJv6syN16TikpF6L0JSiqq7_U5SxNiYta14zYYA7rsHPfbwSJNDppgSNdndoya6wP37z1XqxujA-2nc5jxgCsE-IuY0/output-onlinegiftools.gif">
+</p>
 <!--
 **adren1line7/adren1line7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
