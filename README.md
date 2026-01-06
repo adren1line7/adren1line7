@@ -1,10 +1,9 @@
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=ff0048&label=-3-)
+
+---------------------------------------------------------------------------------------------
+
 <p align="center">
-      <img width="ШИРИНА" height="ВЫСОТА" src="https://psv4.userapi.com/s/v1/d2/WySAqU4CHTVGCIHvJjGET_bTGtIhxxqb5fX8BKEs6NfI8fLzGF7qgFse0scjT-IPLCB2Q-UN2YqY0wYCanrvVRPEkvoeu7OymD3n4GhTaGvmhpU-J9TcoRkyl0UTR1ygv-zsBa47_74h/Bez_nazvania25_20250422124729.png">
-</p>
-
-
-<p align="left">
-      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/KiJW7f3Pn9eNXQ_rwGJ9IATWGBH80SB1pNZkq0piusHSN62oYEJv6syN16TikpF6L0JSiqq7_U5SxNiYta14zYYA7rsHPfbwSJNDppgSNdndoya6wP37z1XqxujA-2nc5jxgCsE-IuY0/output-onlinegiftools.gif">
+      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/4EaMd_pCTY6EuklnjVs39idRI4ddEFrvYeN7BgIjve2lQ7F8_6Rybi8hEt-J7ryOQpfNYv9JP3dAfEOprEIdWAv3z4RvqrdC2FRMlFueTyrT4d-uwBfaEW6D6-xWoKxt-ScTCfBz96EF/nenoyu-edited-free_carve_photos.png">
 </p>
 <!--
 **adren1line7/adren1line7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
