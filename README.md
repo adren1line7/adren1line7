@@ -1,10 +1,16 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=ff0048&label=-3-)
 
----------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------
 
 <p align="center">
       <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/4EaMd_pCTY6EuklnjVs39idRI4ddEFrvYeN7BgIjve2lQ7F8_6Rybi8hEt-J7ryOQpfNYv9JP3dAfEOprEIdWAv3z4RvqrdC2FRMlFueTyrT4d-uwBfaEW6D6-xWoKxt-ScTCfBz96EF/nenoyu-edited-free_carve_photos.png">
 </p>
+
+
+
+-------------------------------------------------------------------------
+ 
+
 <!--
 ыыыы
 **adren1line7/adren1line7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
