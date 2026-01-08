@@ -3,7 +3,7 @@
 -------------------------------------------------------------------------
 
 <p align="center">
-      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/4EaMd_pCTY6EuklnjVs39idRI4ddEFrvYeN7BgIjve2lQ7F8_6Rybi8hEt-J7ryOQpfNYv9JP3dAfEOprEIdWAv3z4RvqrdC2FRMlFueTyrT4d-uwBfaEW6D6-xWoKxt-ScTCfBz96EF/nenoyu-edited-free_carve_photos.png">
+      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/ODExHpi7JAptVd_6O8POs0SQys0JCjXQ_69HeyciEWrPhv2-uKGty8fgJGea9SDUesaNwA1whvhnbz0CPXzThLmzPhWDz-f_554jPahwHh0OoJfnWxRiG_li5XkwohH1u6GouA1GrUC-/888ee906ba929c8f1339fd133063ecc6-no-bg-preview_carve_photos.png">
 </p>
 
 
