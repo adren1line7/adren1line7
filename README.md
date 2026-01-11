@@ -1,15 +1,15 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=ff0048&label=-3-)
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=ff0048&label=-3-)  
 
--------------------------------------------------------------------------
+
 
 <p align="center">
-      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/ODExHpi7JAptVd_6O8POs0SQys0JCjXQ_69HeyciEWrPhv2-uKGty8fgJGea9SDUesaNwA1whvhnbz0CPXzThLmzPhWDz-f_554jPahwHh0OoJfnWxRiG_li5XkwohH1u6GouA1GrUC-/888ee906ba929c8f1339fd133063ecc6-no-bg-preview_carve_photos.png">
+      <img width="500" height="500" src="https://psv4.userapi.com/s/v1/d2/vlmAUDtHULA0exgtE_rI6D2jIcf7V2A-sf8kemXHMljeUPKJzE8V64JCWac0_RRTEq2PQWMtMvrA3XomDN1bmIUHlGw7ompGQgSXd9_ORPKmWU5vZidAOc71ocWWtV4_bI2F7kBL-6Xo/3eb1390dd511b3ce9ba900ce7de8013c-edited-free_carve_photos.png">  <div id="badges">
+ <p align="center"> <a href="https://t.me/deltaruto">
+  <img src="https://img.shields.io/badge/тг-a43e93?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
 </p>
 
+                                                                                             
 
-
--------------------------------------------------------------------------
- 
 
 <!--
 ыыыы
