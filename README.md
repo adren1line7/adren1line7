@@ -1,9 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=ff0048&label=-3-)  
-
-
-
-
-люблю школа биз буквы ш))))))))))))))))))))))))))))
+![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=ff0048&label=-3-)  
  <p align="center"> <a href="https://t.me/deltaruto">
   <img src="https://img.shields.io/badge/тг-a43e93?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
 </p>
