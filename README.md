@@ -1,25 +1,37 @@
-![](https://komarev.com/ghpvc/?username=adren1line7&style=for-the-badge&color=607877&label=ღ)  
- <p align="center"> <a href="https://t.me/deltaruto">
-  <img src="https://img.shields.io/badge/тг-a43e93?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram Badge"/>
-</p>
-
-                                                                                             
-
-
-<!--
-ыыыы
-**adren1line7/adren1line7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub prof
-
-
-аааааааааааааааааааа
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... аааааааааааааааааааааааааааааааааааааа
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <img src="http://i.picasion.com/gl/93/m1tR.gif" width="800"/>
+</div>
+ₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓ
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div id="header" align="left">
+  <img src="http://i.picasion.com/gl/93/m1ud.gif" width="600"/> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ-ˏˋˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+</div> <div id="header" align="right">
+ㅤㅤㅤㅤㅤㅤㅤ-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-ˏˋ♥̩͙♥̩̩̥͙♥̩̥̩-
+ <img src="http://i.picasion.com/gl/93/m1ue.gif" width="500"/> 
+</div>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div id="header" align="center">
+  <img src="http://i.picasion.com/gl/93/m1uO.gif" width="400"/>
+</div>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div style="display: flex; justify-content: left; gap: 30px; flex-wrap: wrap; align-items: left;">
+<div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="http://i.picasion.com/gl/93/m1uZ.gif" alt="GIF 1" width="100">
+    <img src="http://i.picasion.com/gl/93/m1v2.gif" alt="GIF 2" width="200">
+    <img src="http://i.picasion.com/gl/93/m1v3.gif" alt="GIF 3" width="200">
+    <img src="http://i.picasion.com/gl/93/m1v4.gif" alt="GIF 4" width="200">
+    <img src="http://i.picasion.com/gl/93/m1v5.gif" alt="GIF 5" width="250">
+  </div>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓₓ˚. ୭ ˚○◦˚.˚◦○˚ ୧ .˚ₓㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div id="header" align="center">
+   <img src="https://github.com/user-attachments/assets/5cb76b4e-81f8-4e03-9fe7-9af3679fefdd" width="600"/>
+</div>
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div id="header" align="center">
+  <img src="http://i.picasion.com/gl/93/m1vq.gif" width="800"/>
+</div>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<div id="header" align="center">
+  <img src="http://i.picasion.com/gl/93/m1vs.gif" width="800"/>
+</div>
